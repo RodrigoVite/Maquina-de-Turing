@@ -1,6 +1,7 @@
 # Maquina-de-Turing
 
 Maquina de Turing determinista de 1 Cinta con el siguiente formato:
+
      Q <- es el numero de estados que tiene de la Maquina de Turing
      Σ <- Alfabeto de la Maquina de Turing
      T <- Conjunto de símbolos de la cinta
